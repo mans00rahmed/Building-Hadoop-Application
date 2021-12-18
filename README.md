@@ -1,5 +1,7 @@
 # Building Hadoop Application
  
+Check here! <a href="https://github.com/mans00rahmed/Building-Hadoop-Application/wiki" >For Documentation</a>
+
 ## Hadoop WordCount operation occurs in 3 stages 
 1. Mapper Phase 
 2. Shuffle Phase 
